@@ -3,7 +3,7 @@ import Typography from '@material-ui/core/Typography';
 const index = () => {
     return (
         <Typography paragraph>
-          Welcome.
+          Coming soon...
         </Typography>
     );
 }

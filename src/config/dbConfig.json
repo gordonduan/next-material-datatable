@@ -1,0 +1,6 @@
+{
+  "host": "mysql",
+  "user":"root",
+  "database":"next_learn",
+  "password":"root"
+}
